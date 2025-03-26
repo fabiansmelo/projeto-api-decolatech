@@ -2,7 +2,7 @@
 
 ## Diagrama de classes
 
-```
+```mermaid
 classDiagram
     class User {
         +String name
